@@ -1,0 +1,14 @@
+.message-box{
+    height: 100px;
+}
+.home{
+    background-image: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+    background-size: cover;
+}
+nav li:hover{
+    color: rgb(221, 55, 113);
+    transform: scale(1.20);
+}
+i{
+    color: white;
+}
